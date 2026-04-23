@@ -1,0 +1,22 @@
+UPLOAD THESE FILES TO THE ROOT OF YOUR GITHUB REPO.
+
+Included:
+- index.html
+- privacy.html
+- sitemap.xml
+- robots.txt
+- favicon.ico
+- favicon-16x16.png
+- favicon-32x32.png
+- favicon-48x48.png
+- apple-touch-icon.png
+- android-chrome-192x192.png
+- android-chrome-512x512.png
+- logo-main-square.png
+- logo-main-horizontal.png
+- logo-alt-square.png
+
+Best use:
+- logo-main-horizontal.png = website header / documents
+- logo-main-square.png = square logo / profile image
+- logo-alt-square.png = alternate square logo
